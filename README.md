@@ -1,8 +1,8 @@
 # Calculus-2
 
-Calculus 2 for Computer Science Ph.D. Students
+Calculus 2 for Ph.D. or M.Sc. Computer Science Students.
 
-These Jupyter Notebooks (via Google Colab) are adapted from a YouTube video (https://youtu.be/7gigNsz4Oe8)
+These Jupyter Notebooks (via Google Colab) are adapted from a YouTube video (https://youtu.be/7gigNsz4Oe8).
 
 This course was created by Dr. Linda Green, a lecturer at the University of North Carolina at Chapel Hill.
 
